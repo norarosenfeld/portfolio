@@ -3,6 +3,13 @@
     font-weight: 400;
     font-style: normal;
   }
+
+.assistant-regular {
+    font-family: "Assistant", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
 body {
     background-color:rgb(169, 217, 203);
 }
@@ -22,15 +29,16 @@ body {
 }
 #content {
     color: #48494b;
-    font-family:'Courier New', Courier, monospace
+    font-family:'Assistant'
 }
 #links a {
     color: #004170;
 }
 h1 {
-    font-family:'Kranky';
+    font-family:'Kranky','Times New Roman';
     text-align: center;
     padding-top: 40px;
+    font-size:4em;
 }
 
 .img-container {
