@@ -35,12 +35,12 @@ h1 {
     display: block;
   }
   #content {
-    width: 50%;
+    width: 65%;
     margin: auto;
   }
   
   @media (orientation: portrait) {
     #content {
-      width: 100%;
+      width: 90%;
     }
   }
