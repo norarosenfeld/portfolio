@@ -47,10 +47,14 @@ body {
 h1 {
     font-family:'Kranky','Assistant';
     text-align: center;
-    padding-top: 40px;
     font-size:4em;
 }
-
+#head1 {
+    border: 2px solid;
+}
+#head2 {
+    border: 2px solid;
+}
 .img-container {
     width: 100%;
   }
@@ -111,4 +115,4 @@ h1 {
     font-size:small;
     font-style:italic
   }
-  
+
