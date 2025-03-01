@@ -14,6 +14,7 @@
   }
 body {
     background-color:rgb(169, 217, 203);
+    font-family: "Assistant";
 }
 .fade-in {
     opacity: 0;
@@ -42,7 +43,7 @@ body {
 }
 #content {
     color: #48494b;
-    font-family:'Assistant'
+    font-family:'Assistant';
 }
 #links a {
     color: #004170;
@@ -68,7 +69,7 @@ h1 {
     padding-top: 20px;
 }
 #warmingcenter {
-    background-color: #8fb7ab;
+    background-color: #BAC0B6;
 }
   
   img {
