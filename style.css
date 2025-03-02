@@ -64,13 +64,10 @@ h1 {
     width: 100%;
   }
 #profile {
-    width: 400px;
-    height: 400px;
-    padding-top: 20px;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
     margin: auto;
-}
-#warmingcenter {
-    background-color: #BAC0B6;
 }
   
   img {
