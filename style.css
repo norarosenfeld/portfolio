@@ -13,7 +13,7 @@
     /* body font*/
   }
 body {
-    background-color:rgb(169, 217, 203);
+    background-color:#a9d9cb;
     font-family: "Assistant";
 }
 .fade-in {
@@ -44,6 +44,8 @@ body {
 #content {
     color: #48494b;
     font-family:'Assistant';
+    width: 65%;
+    margin: auto;
 }
 #links a {
     color: #004170;
@@ -64,7 +66,7 @@ h1 {
     width: 100%;
   }
 #profile {
-    width: 500px;
+    width: 70%;
     height: 500px;
     padding-top: 50px;
     margin: auto;
@@ -74,10 +76,7 @@ h1 {
     margin: auto;
     display: block;
   }
-  #content {
-    width: 65%;
-    margin: auto;
-  }
+ 
   #contact-head{
     padding-top: 60px;
     text-align: center;
