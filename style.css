@@ -55,13 +55,15 @@ h1 {
     text-align: center;
     font-size:4em;
 }
-/* decorative lines*/
-#head1 {
-    border: 2px solid;
+#story-h1 {
+    text-align: left;
 }
-#head2 {
-    border: 2px solid;
+hr {
+    height: 3px;
+    border: none;
+    background-color: #48494b;
 }
+/*decorative line*/
 .img-container {
     width: 100%;
   }
